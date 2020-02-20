@@ -7,7 +7,7 @@
 /* Base */
 body {
   line-height: 1.7;
-  color: gray;
+  color: rgb(35, 35, 35);
   font-weight: 300;
   font-size: 1.1rem; }
 
@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5,
   color: #000 !important; }
 
 .bg-black {
-  background: #000 !important; }
+  background: #c4ffd1 !important; }
 
 .color-black-opacity-5 {
   color: rgba(0, 0, 0, 0.5); }
